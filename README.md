@@ -11,4 +11,4 @@ List of Installs Needed
 - pip install python-docx
 - pip install PyQt5 python-docx
 
-This should be everthing you neeed to run the code , if this doesnt work just google or ChatGPT what other librarys you will need to install
+This should be everthing you needed to run the code , if this doesnt work just google or ChatGPT what other librarys you will need to install
