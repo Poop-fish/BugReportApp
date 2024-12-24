@@ -6,7 +6,7 @@ MAKE SURE TO INSTALL PYQ and anything you will need to run PyQ Library. This was
 installing any of the Librarys needed to run PyQ.
 
 # LIST
-List Of Librarys Needed 
+List Of pip installs Needed 
 - pip install PyQt5
 - pip install python-docx
 - pip install PyQt5 python-docx
