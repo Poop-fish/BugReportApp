@@ -2,7 +2,8 @@
 
 Made this in like 2 days , feel free to do whatever with the code.
 
-MAKE SURE TO INSTALL PYQ and anything you will need to run PyQ Library. This was coded with python so it should be straight foward with the intalling any of the Librarys needed to run PyQ.
+MAKE SURE TO INSTALL PYQ and anything you will need to run PyQ Library. This was coded with python so it should be straight foward with 
+intalling any of the Librarys needed to run PyQ.
 
 # LIST
 List of Installs Needed 
